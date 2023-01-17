@@ -2,7 +2,7 @@
 
 <div align="center">
   
-<img src="https://github.com/NancyArmah/Capstone_Project/blob/main/ccfraud.png">
+![image]("https://github.com/NancyArmah/Capstone_Project/blob/main/ccfraud.png")
   
 </div>
 
