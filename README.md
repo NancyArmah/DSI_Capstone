@@ -2,7 +2,7 @@
 
 <div align="center">
   
-![image](https://github.com/NancyArmah/Capstone_Project/blob/main/ccfraud.png)
+![image](https://github.com/NancyArmah/DSI_Capstone/blob/main/ccfraud.png)
   
 </div>
 
