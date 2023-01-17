@@ -2,11 +2,9 @@
 
 <div align="center">
   
-![image]("https://github.com/NancyArmah/Capstone_Project/blob/main/ccfraud.png")
+![image](https://github.com/NancyArmah/Capstone_Project/blob/main/ccfraud.png)
   
 </div>
-
-<div align="center">
 
 From the moment the e-commerce payment systems came to existence, there have always been people who will find new ways to access someone’s finances illegally. This has become a major problem in the modern era, as all transactions can easily be completed online by only entering your credit card information.
 
