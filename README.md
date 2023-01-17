@@ -30,7 +30,8 @@ Simulated credit card transaction dataset from [Kaggle](https://www.kaggle.com/d
 
 This was generated using [Sparkov Data Generation | GitHub](https://github.com/namebrandon/Sparkov_Data_Generation) tool created by Brandon Harris. This simulation was run for the duration - 1 Jan 2019 to 31 Dec 2020. The files were then combined and converted into a standard format.
 
-#Pipiline
+# Pipeline
+
 * Import Packages
 * Import Data
 * EDA
